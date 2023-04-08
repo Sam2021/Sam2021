@@ -19,7 +19,7 @@ I am a front-end developer with skills of React, Node.js, and Three.js as well a
 
 
 ### 🤝 Connect with me:
-<a href="[https://www.linkedin.com/in/smitparikh/](https://www.linkedin.com/in/smitparikh/)"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/smitparikh/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Smit | LinkedIn" width="21px"/></a>
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me! 
