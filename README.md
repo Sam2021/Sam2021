@@ -1,38 +1,80 @@
-![Front-end/React Developer || QA/Manual Tester](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)
+<h1 align="center">👋 Hey there, I'm Smit Parikh</h1>
+<h3 align="center">🚀 Cyber Security MSc Student | Front-End Dev | Security Explorer</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" alt="cyber security gif" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=MSc+Cyber+Security+%40+MMU+(2024-2025);Malware+Analysis+%7C+SOC+Lab+Builder+%7C+Steganography+Research;Frontend+Developer+(React+%7C+Three.js+%7C+Tailwind);Always+Learning+and+Experimenting+%F0%9F%A7%A0" alt="Typing animation" />
+</p>
 
 
-<h3 align="center">
-Hi there 👋, my name is <a href="https://smit-parikh.netlify.app/" target="_blank" rel="noreferrer">Smit </a> Parikh👋
-</h3>
+---
 
-<h2 align="center">
-Front-end/React Developer || QA/Manual Tester
-</h2> 
+## 🔍 About Me
 
+- 🎓 MSc Cyber Security @ **MMU (2024–2025)**
+- 🔬 **Dissertation**: Java/Python-based Malware Analysis Module using **Autopsy**
+- 🧠 Research: Steganography Detection using **Machine Learning**
+- 🧪 Building a personal **SOC Lab** for cyber attack simulation and threat analysis
+- 🧰 Former **Manual QA Tester** (1.5 yrs) with a strong bug-finding mindset
+- 💻 Skilled in **React**, **Three.js**, **Tailwind**, **Node.js**, and more
+- 🌱 Constantly learning — balancing **Frontend Creativity** and **Cybersecurity Insight**
+- 🤝 Open to collaborations in both Dev & Sec projects
 
+---
 
-I am a front-end developer with skills of React, Node.js, and Three.js as well as TypeScript and JavaScript experience. I pick things up quickly and work on it to develop effective, scalable, and user-friendly solutions that address challenges in the real world. Together with that, I have 1.5 years of experience as a manual QA tester. I am excellent at locating errors and flaws in software programs and coordinating easily with QA and Development to find quick fixes.
+## 🚀 Live Projects
 
-- 🔭 I’m currently working on personal projects using three js, react, tailwind etc. 
-- 🌱 I’m currently learning about frontend development and Cybersecurity Analyst 
-- 👯 I’m looking to collaborate on projects based on react so that i can learn new things 
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| 🛡️ **Malware Analysis with Autopsy** | Automates malware detection using custom modules in Java/Python, integrated into Autopsy forensic suite | Java, Python, Autopsy | *Coming Soon* |
+| 🧠 **Steganography Detection** | Detects hidden messages using ML-based image analysis | Python, Scikit-learn | *Coming Soon* |
+| 🧪 **SOC Lab** | Simulated environment for analyzing and defending against cyber attacks | Wireshark, ELK Stack, VirtualBox | *In Progress* |
 
+---
 
-### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/smitparikh/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Smit | LinkedIn" width="21px"/></a>
+## 🛠️ Tech Stack
 
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me! 
+<div align="center">
+  
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+</div>
 
+---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sam2021&theme=radical&show_icons=true&hide_border=false&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam2021&theme=radical&hide_border=false" width="48%" />
+</p>
 
-## 💼 Technical Skills and Tools
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-## 📈 GitHub Stats 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam2021&show_icons=true&locale=en&layout=compact" alt="sam2021" /></p>
+## 🌐 Connect With Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sam2021&show_icons=true&locale=en" alt="sam2021" /></p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smitparikh/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<!-- Designed with ❤️ by Smit Parikh | Updated by ChatGPT -->
