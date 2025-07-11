@@ -29,7 +29,7 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| 🛡️ **Malware Analysis with Autopsy** | Automates malware detection using custom modules in Java/Python, integrated into Autopsy forensic suite | Java, Python, Autopsy | *Coming Soon* |
+| 🛡️ **Malware Analysis with Autopsy** | Automates malware detection using custom modules in Java/Python, integrated into Autopsy forensic suite | Java, Python, Autopsy | [Github link](https://github.com/Sam2021/autopsy-virustotal-ingest-module) |
 | 🧠 **Steganography Detection** | Detects hidden messages using ML-based image analysis | Python, Scikit-learn | *Coming Soon* |
 | 🧪 **SOC Lab** | Simulated environment for analyzing and defending against cyber attacks | Wireshark, ELK Stack, VirtualBox | *In Progress* |
 
